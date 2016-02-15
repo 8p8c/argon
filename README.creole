@@ -1,0 +1,8 @@
+= Argon
+
+Something like APT library and reprepro written in Ruby
+
+== To do
+
+* ☒ Write ToDo list
+* ☒ Do it
